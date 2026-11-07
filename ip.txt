@@ -1,7 +1,7 @@
-103.240.199.7:443#HK 2.68 Mbps
-168.107.36.135:443#KR 3.09 Mbps
-49.238.238.31:443#KR 1.70 Mbps
-103.7.137.51:443#US 1.76 Mbps
+103.233.74.48:443#US 1.75 Mbps
+103.240.199.7:443#HK 2.02 Mbps
+168.107.36.135:443#KR 3.45 Mbps
+103.232.95.89:443#US 2.22 Mbps
 8.35.211.167:443#US 11.92 Mbps *
-168.107.36.135:443#KR 3.09 Mbps Gate$sstp://vpn:vpn@vpn270140081.opengw.net:1576
-103.240.199.7:443#JP 2.68 Mbps Gate$sstp://vpn:vpn@vpn680935018.opengw.net:1693
+103.233.74.48:443#JP 1.75 Mbps Gate$sstp://vpn:vpn@vpn616290916.opengw.net:1973
+168.107.36.135:443#KR 3.45 Mbps Gate$sstp://vpn:vpn@vpn227967846.opengw.net:1414
