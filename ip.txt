@@ -1,5 +1,6 @@
-104.168.89.13:443#US 2.29 Mbps
-152.69.224.226:443#KR 1.92 Mbps
+49.238.236.11:443#KR 1.95 Mbps
+185.115.207.82:443#SG 2.02 Mbps
 8.35.211.199:443#US 12.27 Mbps *
 8.39.125.34:443#US 12.03 Mbps *
-152.69.224.226:443#KR 1.92 Mbps Gate$sstp://vpn:vpn@vpn618084415.opengw.net:1251
+49.238.236.11:443#KR 1.95 Mbps Gate$sstp://vpn:vpn@vpn618084415.opengw.net:1251
+49.238.236.11:443#JP 1.95 Mbps Gate$sstp://vpn:vpn@vpn475862864.opengw.net:1574
